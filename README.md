@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Johnson Fredrick</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnson419" alt="johnson419" /></a> </p>
 
 - 🔭 I’m currently working on [Tencoba](https://github.com/DGJCo/Tencoba.git)
 
