@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Johnson Fredrick Rwehumbiza</h1>
+<h1 align="center">Hi, I'm Johnson 
+  Rwehumbiza</h1>
 
 - 🔭 I’m currently working on [Tencoba](https://github.com/DGJCo/Tencoba.git)
 
