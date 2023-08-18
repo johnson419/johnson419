@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Tencoba](https://github.com/DGJCo/Tencoba.git)
 
-- 🌱 I’m currently learning **Flutter, next.js and react frameworks**
+- 🌱 I’m proficient on **Flutter, next.js and react frameworks** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/johnson419?tab=repositories](https://github.com/johnson419?tab=repositories)
 
-- 💬 Ask me about **flutter, react and next,js**
+- 💬 Ask me about **flutter, react.js and next.js**
 
 - 📫 How to reach me **johnsonfredrick577@gmail.com**
 
