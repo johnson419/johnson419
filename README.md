@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Johnson 
   Rwehumbiza</h1>
 
-- 🔭 I’m currently working on [Duka Langu]([https://github.com/johnson419/Duka_Langu.git])
+- 🔭 I’m currently working on [Duka Langu](https://github.com/johnson419/Duka_Langu.git)
 
 - 🌱 I’m proficient on **Flutter, next.js and react frameworks** 
 
